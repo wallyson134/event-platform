@@ -25,8 +25,3 @@ Pelo seu terminal navegue até a pasta do projeto e execute:
 ```
 
 
-## Contato
-
-Siga-me no Linkedin, estou sempre por lá.
-
-![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
